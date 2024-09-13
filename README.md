@@ -1,11 +1,4 @@
 # Delaney-Solubility-with-Descriptors
-
-Absolutely! Here’s a README description for your “Delaney-Solubility-with-Descriptors” ML project, decorated with emojis to make it engaging:
-
----
-
-# 🌟 Delaney Solubility Prediction with Descriptors 🌡️
-
 Welcome to the "Delaney Solubility with Descriptors" project! This repository features a machine learning model designed to predict the solubility of compounds using various molecular descriptors. 📊🔬
 
 ## 🚀 Project Overview
