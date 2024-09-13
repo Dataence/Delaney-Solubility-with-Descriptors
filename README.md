@@ -31,6 +31,11 @@ In this project, we leverage machine learning techniques to estimate the solubil
    - Visualizing predictions versus actual solubility values.
    - Creating plots to interpret model outcomes and feature importances.
 
+## 📂 Files Included
+
+- `Delaney_Solubility_Model.ipynb`: Google Colab Notebook containing the code and detailed explanations.
+- `data/`: Directory with the dataset and additional resources.
+
 ## 🛠️ How to Run
 
 1. **Clone the Repository**:
@@ -45,17 +50,17 @@ In this project, we leverage machine learning techniques to estimate the solubil
    ```bash
    pip install -r requirements.txt
    ```
-4. **Open the Notebook**:
-   ```bash
-   jupyter notebook Delaney_Solubility_Model.ipynb
-   ```
+4. **Open the Notebook in Google Colab**:
+   - Go to [Google Colab](https://colab.research.google.com/)
+   - Click on "File" > "Upload notebook"
+   - Upload `Delaney_Solubility_Model.ipynb` from your local directory
 
 ## 📝 Key Learnings
 
 - Practical experience with chemical data and molecular descriptors.
 - Techniques for building and evaluating predictive models in a scientific context.
 - Insights into how machine learning can be applied to chemistry and materials science.
-
+- 
 ## 🔗 References
 
 - [Delaney Solubility Data](https://www.kaggle.com/datasets/prashanthbairu/delaney-solubility-with-descriptors)
